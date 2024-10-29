@@ -14,7 +14,7 @@
 - 🌟 Project 3: Observability and alerting mechanism with Prometheus and Grafana.
 - 💰 Project 4: Leveraging Karpenter for cost-effective Node Autoscaling.
 
-### 🔧 Technologies and Tools
+## 🔧 Technologies and Tools
 
 - **Cloud**: AWS, Azure
 - **Containerization**: Docker, Kubernetes
