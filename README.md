@@ -19,10 +19,11 @@
 - **Cloud**: AWS, Azure
 - **Containerization**: Docker, Kubernetes
 - **CI/CD**: Jenkins, GitLab CI/CD
-- **Configuration Management**: Ansible, Terraform
+- **Configuration Management/IAC**: Ansible, Terraform, Helm, Kustomize
 - **Monitoring**: Prometheus, Grafana, ELK Stack, Site24x7, LightStep, Kiali, Jaeger
 - **Scripting**: Bash, Python
 - **Version Control**: Git, GitHub
+- **GitOps**: ArgoCD
 - **Security**: SonarQube, CheckmarX, GitGuardian, Jfrog X-ray
 
 ## Connect with Me
