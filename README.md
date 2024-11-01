@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, I'm Mohammed Amjad</h1>
-<h3 align="center">A passionate DevOps Engineer with over 3 years of experience and an aspiring Cloud Architect. My mission? To automate all the things!</h3>
+<h3 align="center">A passionate DevOps Engineer and an aspiring Cloud Architect. My mission? To automate all the things!</h3>
 
 ## About Me
 - 🌐 I love working with cloud platforms like AWS, Azure, and GCP.
